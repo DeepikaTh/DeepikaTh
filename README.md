@@ -9,7 +9,7 @@ DeepikaTh/DeepikaTh is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 Hi, I'm Deepika.
-i'm interested in leaning programming language and database.
+i'm interested in learning programming language and database.
 i'm currently learning python.
 i'm looking to collaborate on github account project.
 You can reach me by my email id.
